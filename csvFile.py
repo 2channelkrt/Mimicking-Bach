@@ -183,11 +183,3 @@ class csvFile:
 
 ##record note hit
 ##file will have to automatically generate note release
-
-##read and record track 1 for right hand.
-##read and record track 2~ for left hand. concat in dics.
-
-##right hand, note auto release is not hard
-##left hand, if next note is played, release all beforehand.
-
-##for timestamp, 일정한 템포로 근사시킨다. RNN에 넣으려면 시간을 데이터로 넣지 말고 시퀸스로 넣어야 한다.
