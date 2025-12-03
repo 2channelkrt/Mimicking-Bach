@@ -10,3 +10,7 @@ creating melody based on Bach's keyboard scores, using Tensorflow.
 6. using [csvmidi](http://www.fourmilab.ch/webtools/midicsv/), convert created csv format melody to audiable midi format.
 ## Created Examples
 try listening at [soundcloud](https://soundcloud.com/2channelkrt/sets/mimicking-bach-examples)
+
+## Articles
+- [Github](Article.md)
+- [Blog](https://2channelkrt.github.io/regular_post/2019/06/17/Mimicking-Bach-Melody-with-LSTM.html)
